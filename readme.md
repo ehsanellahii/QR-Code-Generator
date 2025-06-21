@@ -21,7 +21,7 @@ A simple Node.js service to generate QR codes via an HTTP API or from the comman
 2. Install dependencies:
 
    ```bash
-   npm install express qrcode
+   npm install
    ```
 
 3. Ensure you have a public folder in the project root, or let the service create subfolders under public/qrcodes.
